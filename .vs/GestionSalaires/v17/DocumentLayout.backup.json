@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anced\\OneDrive\\Documents\\Projet_Line\\GestionSalaires\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41451A10-53BA-412A-B2C9-3ECFB8F0BBDA}|GestionSalaires.vbproj|c:\\users\\anced\\onedrive\\documents\\projet_line\\gestionsalaires\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{41451A10-53BA-412A-B2C9-3ECFB8F0BBDA}|GestionSalaires.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41451A10-53BA-412A-B2C9-3ECFB8F0BBDA}|GestionSalaires.vbproj|c:\\users\\anced\\onedrive\\documents\\projet_line\\gestionsalaires\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{41451A10-53BA-412A-B2C9-3ECFB8F0BBDA}|GestionSalaires.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41451A10-53BA-412A-B2C9-3ECFB8F0BBDA}|GestionSalaires.vbproj|c:\\users\\anced\\onedrive\\documents\\projet_line\\gestionsalaires\\signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{41451A10-53BA-412A-B2C9-3ECFB8F0BBDA}|GestionSalaires.vbproj|solutionrelative:signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41451A10-53BA-412A-B2C9-3ECFB8F0BBDA}|GestionSalaires.vbproj|c:\\users\\anced\\onedrive\\documents\\projet_line\\gestionsalaires\\signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{41451A10-53BA-412A-B2C9-3ECFB8F0BBDA}|GestionSalaires.vbproj|solutionrelative:signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41451A10-53BA-412A-B2C9-3ECFB8F0BBDA}|GestionSalaires.vbproj|c:\\users\\anced\\onedrive\\documents\\projet_line\\gestionsalaires\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{41451A10-53BA-412A-B2C9-3ECFB8F0BBDA}|GestionSalaires.vbproj|solutionrelative:my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41451A10-53BA-412A-B2C9-3ECFB8F0BBDA}|GestionSalaires.vbproj|c:\\users\\anced\\onedrive\\documents\\projet_line\\gestionsalaires\\accueil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{41451A10-53BA-412A-B2C9-3ECFB8F0BBDA}|GestionSalaires.vbproj|solutionrelative:accueil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41451A10-53BA-412A-B2C9-3ECFB8F0BBDA}|GestionSalaires.vbproj|c:\\users\\anced\\onedrive\\documents\\projet_line\\gestionsalaires\\ajouteremploye.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{41451A10-53BA-412A-B2C9-3ECFB8F0BBDA}|GestionSalaires.vbproj|solutionrelative:ajouteremploye.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41451A10-53BA-412A-B2C9-3ECFB8F0BBDA}|GestionSalaires.vbproj|c:\\users\\anced\\onedrive\\documents\\projet_line\\gestionsalaires\\ajouteremploye.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{41451A10-53BA-412A-B2C9-3ECFB8F0BBDA}|GestionSalaires.vbproj|solutionrelative:ajouteremploye.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 229,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\anced\\OneDrive\\Documents\\Projet_Line\\GestionSalaires\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\anced\\OneDrive\\Documents\\Projet_Line\\GestionSalaires\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "My Project\\Application.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-11T21:27:15.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUp.vb",
+              "DocumentMoniker": "C:\\Users\\anced\\OneDrive\\Documents\\Projet_Line\\GestionSalaires\\SignUp.vb",
+              "RelativeDocumentMoniker": "SignUp.vb",
+              "ToolTip": "C:\\Users\\anced\\OneDrive\\Documents\\Projet_Line\\GestionSalaires\\SignUp.vb",
+              "RelativeToolTip": "SignUp.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-11T21:04:36.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\anced\\OneDrive\\Documents\\Projet_Line\\GestionSalaires\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\anced\\OneDrive\\Documents\\Projet_Line\\GestionSalaires\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-10T08:50:52.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\anced\\OneDrive\\Documents\\Projet_Line\\GestionSalaires\\SignUp.vb",
+              "RelativeDocumentMoniker": "SignUp.vb",
+              "ToolTip": "C:\\Users\\anced\\OneDrive\\Documents\\Projet_Line\\GestionSalaires\\SignUp.vb [Conception]",
+              "RelativeToolTip": "SignUp.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-10T07:57:59.296Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AjouterEmploye.vb",
+              "DocumentMoniker": "C:\\Users\\anced\\OneDrive\\Documents\\Projet_Line\\GestionSalaires\\AjouterEmploye.vb",
+              "RelativeDocumentMoniker": "AjouterEmploye.vb",
+              "ToolTip": "C:\\Users\\anced\\OneDrive\\Documents\\Projet_Line\\GestionSalaires\\AjouterEmploye.vb",
+              "RelativeToolTip": "AjouterEmploye.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-07T11:26:22.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AjouterEmploye.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\anced\\OneDrive\\Documents\\Projet_Line\\GestionSalaires\\AjouterEmploye.vb",
+              "RelativeDocumentMoniker": "AjouterEmploye.vb",
+              "ToolTip": "C:\\Users\\anced\\OneDrive\\Documents\\Projet_Line\\GestionSalaires\\AjouterEmploye.vb [Conception]",
+              "RelativeToolTip": "AjouterEmploye.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-07T11:12:42.359Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Accueil.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\anced\\OneDrive\\Documents\\Projet_Line\\GestionSalaires\\Accueil.vb",
+              "RelativeDocumentMoniker": "Accueil.vb",
+              "ToolTip": "C:\\Users\\anced\\OneDrive\\Documents\\Projet_Line\\GestionSalaires\\Accueil.vb [Conception]",
+              "RelativeToolTip": "Accueil.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-07T09:56:31.289Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\anced\\OneDrive\\Documents\\Projet_Line\\GestionSalaires\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\anced\\OneDrive\\Documents\\Projet_Line\\GestionSalaires\\Form1.vb [Conception]",
+              "RelativeToolTip": "Form1.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-07T08:52:38.799Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

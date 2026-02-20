@@ -1,0 +1,14 @@
+C:\Users\anced\OneDrive\Documents\Projet_Line\GestionSalaires\bin\Debug\net8.0-windows\GestionSalaires.exe
+C:\Users\anced\OneDrive\Documents\Projet_Line\GestionSalaires\bin\Debug\net8.0-windows\GestionSalaires.dll
+C:\Users\anced\OneDrive\Documents\Projet_Line\GestionSalaires\obj\Debug\net8.0-windows\GestionSalaires.Accueil.resources
+C:\Users\anced\OneDrive\Documents\Projet_Line\GestionSalaires\obj\Debug\net8.0-windows\GestionSalaires.AjouterEmploye.resources
+C:\Users\anced\OneDrive\Documents\Projet_Line\GestionSalaires\obj\Debug\net8.0-windows\GestionSalaires.Authentification.resources
+C:\Users\anced\OneDrive\Documents\Projet_Line\GestionSalaires\obj\Debug\net8.0-windows\GestionSalaires.SignUp.resources
+C:\Users\anced\OneDrive\Documents\Projet_Line\GestionSalaires\obj\Debug\net8.0-windows\GestionSalaires.vbproj.GenerateResource.cache
+C:\Users\anced\OneDrive\Documents\Projet_Line\GestionSalaires\obj\Debug\net8.0-windows\GestionSalaires.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anced\OneDrive\Documents\Projet_Line\GestionSalaires\obj\Debug\net8.0-windows\GestionSalaires.AssemblyInfoInputs.cache
+C:\Users\anced\OneDrive\Documents\Projet_Line\GestionSalaires\obj\Debug\net8.0-windows\GestionSalaires.AssemblyInfo.vb
+C:\Users\anced\OneDrive\Documents\Projet_Line\GestionSalaires\obj\Debug\net8.0-windows\GestionSalaires.vbproj.CoreCompileInputs.cache
+C:\Users\anced\OneDrive\Documents\Projet_Line\GestionSalaires\obj\Debug\net8.0-windows\GestionSalaires.dll
+C:\Users\anced\OneDrive\Documents\Projet_Line\GestionSalaires\obj\Debug\net8.0-windows\refint\GestionSalaires.dll
+C:\Users\anced\OneDrive\Documents\Projet_Line\GestionSalaires\obj\Debug\net8.0-windows\GestionSalaires.pdb
