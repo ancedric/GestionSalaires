@@ -30,34 +30,112 @@ Partial Class FormDashboard
         btnHistorique = New Button()
         CType(dgvEmployes, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
-        lblWelcome.Location = New Point(20, 10)
+        ' 
+        ' lblWelcome
+        ' 
         lblWelcome.AutoSize = True
+        lblWelcome.Location = New Point(20, 10)
+        lblWelcome.Name = "lblWelcome"
+        lblWelcome.Size = New Size(0, 15)
+        lblWelcome.TabIndex = 0
+        ' 
+        ' txtRecherche
+        ' 
         txtRecherche.Location = New Point(20, 45)
-        txtRecherche.Size = New Size(350, 23)
+        txtRecherche.Name = "txtRecherche"
         txtRecherche.PlaceholderText = "Rechercher: Nom / Matricule / Poste"
-        lblTotalEmployes.Location = New Point(400, 45)
-        lblTotalEmployes.AutoSize = True
-        lblMasseSalariale.Location = New Point(400, 65)
-        lblMasseSalariale.AutoSize = True
-        lblSalaireMoyen.Location = New Point(400, 85)
-        lblSalaireMoyen.AutoSize = True
+        txtRecherche.Size = New Size(350, 23)
+        txtRecherche.TabIndex = 1
+        ' 
+        ' dgvEmployes
+        ' 
         dgvEmployes.Location = New Point(20, 80)
-        dgvEmployes.Size = New Size(760, 300)
+        dgvEmployes.MultiSelect = False
+        dgvEmployes.Name = "dgvEmployes"
         dgvEmployes.ReadOnly = True
         dgvEmployes.SelectionMode = DataGridViewSelectionMode.FullRowSelect
-        dgvEmployes.MultiSelect = False
-        btnAjouter.Text = "Ajouter Employé"
+        dgvEmployes.Size = New Size(760, 300)
+        dgvEmployes.TabIndex = 2
+        ' 
+        ' lblTotalEmployes
+        ' 
+        lblTotalEmployes.AutoSize = True
+        lblTotalEmployes.Location = New Point(400, 45)
+        lblTotalEmployes.Name = "lblTotalEmployes"
+        lblTotalEmployes.Size = New Size(0, 15)
+        lblTotalEmployes.TabIndex = 3
+        ' 
+        ' lblMasseSalariale
+        ' 
+        lblMasseSalariale.AutoSize = True
+        lblMasseSalariale.Location = New Point(400, 65)
+        lblMasseSalariale.Name = "lblMasseSalariale"
+        lblMasseSalariale.Size = New Size(0, 15)
+        lblMasseSalariale.TabIndex = 4
+        ' 
+        ' lblSalaireMoyen
+        ' 
+        lblSalaireMoyen.AutoSize = True
+        lblSalaireMoyen.Location = New Point(400, 85)
+        lblSalaireMoyen.Name = "lblSalaireMoyen"
+        lblSalaireMoyen.Size = New Size(0, 15)
+        lblSalaireMoyen.TabIndex = 5
+        ' 
+        ' btnAjouter
+        ' 
         btnAjouter.Location = New Point(20, 395)
+        btnAjouter.Name = "btnAjouter"
+        btnAjouter.Size = New Size(114, 23)
+        btnAjouter.TabIndex = 6
+        btnAjouter.Text = "Ajouter Employé"
+        ' 
+        ' btnModifier
+        ' 
+        btnModifier.Location = New Point(175, 395)
+        btnModifier.Name = "btnModifier"
+        btnModifier.Size = New Size(125, 23)
+        btnModifier.TabIndex = 7
         btnModifier.Text = "Modifier Employé"
-        btnModifier.Location = New Point(160, 395)
+        ' 
+        ' btnSupprimer
+        ' 
+        btnSupprimer.Location = New Point(342, 395)
+        btnSupprimer.Name = "btnSupprimer"
+        btnSupprimer.Size = New Size(131, 23)
+        btnSupprimer.TabIndex = 8
         btnSupprimer.Text = "Supprimer Employé"
-        btnSupprimer.Location = New Point(300, 395)
+        ' 
+        ' btnGenererPaie
+        ' 
+        btnGenererPaie.Location = New Point(503, 395)
+        btnGenererPaie.Name = "btnGenererPaie"
+        btnGenererPaie.Size = New Size(136, 23)
+        btnGenererPaie.TabIndex = 9
         btnGenererPaie.Text = "Générer Paie du Mois"
-        btnGenererPaie.Location = New Point(440, 395)
+        ' 
+        ' btnHistorique
+        ' 
+        btnHistorique.Location = New Point(678, 395)
+        btnHistorique.Name = "btnHistorique"
+        btnHistorique.Size = New Size(102, 23)
+        btnHistorique.TabIndex = 10
         btnHistorique.Text = "Voir Historique des Paies"
-        btnHistorique.Location = New Point(620, 395)
+        ' 
+        ' FormDashboard
+        ' 
         ClientSize = New Size(810, 450)
-        Controls.AddRange(New Control() {lblWelcome, txtRecherche, dgvEmployes, lblTotalEmployes, lblMasseSalariale, lblSalaireMoyen, btnAjouter, btnModifier, btnSupprimer, btnGenererPaie, btnHistorique})
+        Controls.Add(lblWelcome)
+        Controls.Add(txtRecherche)
+        Controls.Add(dgvEmployes)
+        Controls.Add(lblTotalEmployes)
+        Controls.Add(lblMasseSalariale)
+        Controls.Add(lblSalaireMoyen)
+        Controls.Add(btnAjouter)
+        Controls.Add(btnModifier)
+        Controls.Add(btnSupprimer)
+        Controls.Add(btnGenererPaie)
+        Controls.Add(btnHistorique)
+        Name = "FormDashboard"
         StartPosition = FormStartPosition.CenterScreen
         Text = "Dashboard"
         CType(dgvEmployes, ComponentModel.ISupportInitialize).EndInit()

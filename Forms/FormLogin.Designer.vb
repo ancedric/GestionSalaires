@@ -21,27 +21,75 @@ Partial Class FormLogin
         btnConnexion = New Button()
         btnInscription = New Button()
         SuspendLayout()
-        lblTitre.Text = "Connexion Administrateur"
-        lblTitre.Font = New Font("Segoe UI", 14.0!, FontStyle.Bold)
-        lblTitre.Location = New Point(70, 20)
+        ' 
+        ' lblTitre
+        ' 
         lblTitre.AutoSize = True
+        lblTitre.Font = New Font("Segoe UI", 14F, FontStyle.Bold)
+        lblTitre.Location = New Point(70, 20)
+        lblTitre.Name = "lblTitre"
+        lblTitre.Size = New Size(249, 25)
+        lblTitre.TabIndex = 0
+        lblTitre.Text = "Connexion Administrateur"
+        ' 
+        ' lblEmail
+        ' 
+        lblEmail.Location = New Point(44, 91)
+        lblEmail.Name = "lblEmail"
+        lblEmail.Size = New Size(36, 16)
+        lblEmail.TabIndex = 1
         lblEmail.Text = "Email"
-        lblEmail.Location = New Point(35, 80)
-        txtEmail.Location = New Point(35, 100)
-        txtEmail.Size = New Size(300, 23)
+        ' 
+        ' lblMotDePasse
+        ' 
+        lblMotDePasse.Location = New Point(44, 149)
+        lblMotDePasse.Name = "lblMotDePasse"
+        lblMotDePasse.Size = New Size(80, 19)
+        lblMotDePasse.TabIndex = 3
         lblMotDePasse.Text = "Mot de passe"
-        lblMotDePasse.Location = New Point(35, 140)
+        ' 
+        ' txtEmail
+        ' 
+        txtEmail.Location = New Point(35, 100)
+        txtEmail.Name = "txtEmail"
+        txtEmail.Size = New Size(300, 23)
+        txtEmail.TabIndex = 2
+        ' 
+        ' txtMotDePasse
+        ' 
         txtMotDePasse.Location = New Point(35, 160)
-        txtMotDePasse.Size = New Size(300, 23)
+        txtMotDePasse.Name = "txtMotDePasse"
         txtMotDePasse.PasswordChar = "*"c
-        btnConnexion.Text = "Se connecter"
+        txtMotDePasse.Size = New Size(300, 23)
+        txtMotDePasse.TabIndex = 4
+        ' 
+        ' btnConnexion
+        ' 
         btnConnexion.Location = New Point(35, 205)
+        btnConnexion.Name = "btnConnexion"
         btnConnexion.Size = New Size(300, 32)
-        btnInscription.Text = "Créer un compte admin"
+        btnConnexion.TabIndex = 5
+        btnConnexion.Text = "Se connecter"
+        ' 
+        ' btnInscription
+        ' 
         btnInscription.Location = New Point(35, 245)
+        btnInscription.Name = "btnInscription"
         btnInscription.Size = New Size(300, 30)
+        btnInscription.TabIndex = 6
+        btnInscription.Text = "Créer un compte admin"
+        ' 
+        ' FormLogin
+        ' 
         ClientSize = New Size(380, 300)
-        Controls.AddRange(New Control() {lblTitre, lblEmail, txtEmail, lblMotDePasse, txtMotDePasse, btnConnexion, btnInscription})
+        Controls.Add(lblTitre)
+        Controls.Add(lblEmail)
+        Controls.Add(txtEmail)
+        Controls.Add(lblMotDePasse)
+        Controls.Add(txtMotDePasse)
+        Controls.Add(btnConnexion)
+        Controls.Add(btnInscription)
+        Name = "FormLogin"
         StartPosition = FormStartPosition.CenterScreen
         Text = "Login"
         ResumeLayout(False)

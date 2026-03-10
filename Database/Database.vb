@@ -16,6 +16,7 @@ Public Module Database
         End Get
     End Property
 
+    <Obsolete>
     Public Function GetConnection() As SqlConnection
         Return New SqlConnection(_connectionString)
     End Function
