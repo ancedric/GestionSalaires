@@ -10,6 +10,27 @@
     <Compile Update="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\FormAjouterEmploye.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormCalculSalaire.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormHistoriquePaie.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormModifierEmploye.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="SignUp.vb">
       <SubType>Form</SubType>
     </Compile>
